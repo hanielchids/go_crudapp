@@ -22,3 +22,5 @@ FrontEnd part
 Handles the requests
 
 gorm: for axios and database connections
+
+# \*\*Please set up a local Postgre server to run the database
